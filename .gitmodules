@@ -1,0 +1,3 @@
+[submodule "fapp_template"]
+	path = fapp_template
+	url = git@github.com:fredgrott/fapp_template.git
