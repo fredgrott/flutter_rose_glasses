@@ -22,6 +22,8 @@ Grouping my medium articles into these groups of categories:
 
 ### Devops
 
+[An Architecture Layout](https://medium.com/p/an-architecture-layout-8f414271b2b4)
+
 ### Cross Platform User Interface
 
 ### Testing
